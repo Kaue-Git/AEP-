@@ -53,7 +53,7 @@ O PSE em Ação é uma aplicação introdutória, executada em terminal, que apo
 | 7 | Testes, correções e documentação |
 | 8 | Preparação da apresentação final |
 
-Detalhamento completo em `documentacao/AEP_PSE_em_Acao_Etapa_1_ABNT`.
+Detalhamento completo em `documentacao/AEP_PSE_em_Acao_Etapa_1_ABNT.pdf`.
 
 ## Tecnologias
 
