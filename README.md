@@ -6,9 +6,8 @@ Atividade Extensionista de Prática (AEP) — Análise e Desenvolvimento de Sist
 
 ## Integrantes
 
-- [Nome do integrante 1] — RA: [000000]
-- [Nome do integrante 2] — RA: [000000]
-- [Nome do integrante 3] — RA: [000000]
+- Kaue Martimiano Gomes — RA:  26007835-2
+- Pedro Henrique Silva de Souza — RA: 26011609-2
 
 ## Sobre o projeto
 
