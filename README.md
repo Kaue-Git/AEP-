@@ -9,8 +9,8 @@ Atividade Extensionista de Prática (AEP) — Análise e Desenvolvimento de Sist
 
 Integrantes
 Kaue Martimiano Gomes — RA: 26007835-2
-[Nome do integrante 2] — RA: [000000]
-[Nome do integrante 3] — RA: [000000]
+Pedro Henrique Silva de Souza — RA: 26011609-2
+
 Sobre o projeto
 
 O PSE em Ação é uma aplicação introdutória, executada em terminal, que apoia o registro, o planejamento e o acompanhamento de ações coletivas do Programa Saúde na Escola. O sistema não realiza diagnóstico, triagem ou tratamento, e não armazena dados clínicos ou informações individuais sensíveis de estudantes — utiliza exclusivamente dados fictícios e informações coletivas.
